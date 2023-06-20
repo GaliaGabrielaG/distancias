@@ -1,4 +1,4 @@
 # distancias
 distancias
 
-ver [aqui](https://github.com/GaliaGabrielaG/distancias/raw/main/INDEX.html)
+ver [aqui](https://galiagabrielag.github.io/distancias/)
